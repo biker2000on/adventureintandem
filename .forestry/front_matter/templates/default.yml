@@ -16,6 +16,9 @@ fields:
   config:
     required: true
   default: 2019-01-13 05:00:00 +0000
+- type: text
+  name: slug
+  label: Slug
 - type: file
   name: featured_image
   label: Featured Image
