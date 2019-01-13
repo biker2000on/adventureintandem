@@ -15,7 +15,7 @@ fields:
   name: date
   config:
     required: true
-  default: 2019-01-13 00:00:00 -0500
+  default: 2019-01-13 05:00:00 +0000
 - type: file
   name: featured_image
   label: Featured Image
