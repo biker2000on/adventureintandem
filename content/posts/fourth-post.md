@@ -4,7 +4,6 @@ title: Fourth Post
 description: 'This is just another test post. '
 featured_image: ''
 tags: []
-draft: true
 
 ---
 Who knows what is going to show up here. 
