@@ -1,6 +1,6 @@
 ---
 date: 2019-01-13 00:00:00 -0500
-title: fourth-post
+title: Fourth Post
 description: 'This is just another test post. '
 featured_image: ''
 tags: []
