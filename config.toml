@@ -32,4 +32,4 @@ enableRobotsTXT = true
   recent_posts_number = 8
 
 [permalinks]
-  posts = "/:title/"
+  posts = "/:slug/"
