@@ -7,17 +7,17 @@
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3 ph0-l">
 
-    <header class="mt4 w-100">
-      <p class="f6 b helvetica tracked">
+    <header class="mt4 w-100 ph4">
+      <!-- <p class="f6 b helvetica tracked">
           {{/*
           CurrentSection allows us to use the section title instead of inferring from the folder.
           https://gohugo.io/variables/page/#section-variables-and-methods
           */}}
         {{with .CurrentSection.Title }}{{. | upper }}{{end}}
-      </p>
-      <h1 class="f1 athelas mb1">
+      </p> -->
+      <!-- <h1 class="f1 athelas mb1">
         {{- .Title -}}
-      </h1>
+      </h1> -->
       {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
       <time class="f6 mv4 dib tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
         {{- .Date.Format "January 2, 2006" -}}
@@ -34,7 +34,7 @@
       {{ end }}
     </header>
 
-    <main class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+    <main class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray ph4 w-100">
         {{- .Content -}}
       {{- partial "tags.html" . -}}
       <div class="mt6">

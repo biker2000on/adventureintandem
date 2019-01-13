@@ -3,7 +3,8 @@ title: "2019 Route"
 date: 2019-01-12T17:24:30-05:00
 draft: false
 featured_image: "/images/tandem.jpg"
-menu: "main"
+menu: 
+    main: {}
 ---
 
 So here is our route for our upcoming bike tour. 
