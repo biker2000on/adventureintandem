@@ -1,0 +1,26 @@
+---
+label: Default
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: description
+  label: Description
+  description: optional, displays below the title in the header.
+- type: datetime
+  label: Date
+  name: date
+  config:
+    required: true
+  default: 2019-01-13 00:00:00 -0500
+- type: file
+  name: featured_image
+  label: Featured Image
+  description: 'Fill this out for a featured image for the page/post. If not used,
+    it will default to the tandem pic. '
+- type: tag_list
+  name: tags
+  label: Tags
