@@ -7,9 +7,9 @@ draft: false
 menu: "main"
 ---
 
-Have any questions about how to tour? 
+Have any questions about how to bike tour? 
 
-Wondering what you need to do to make this type of trip happen for yourself?
+Wondering what you need to do to make a long-term bike tour happen for yourself?
 
 Feel free to reach out and we will answer all of your questions.
 
