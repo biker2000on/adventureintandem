@@ -1,10 +1,10 @@
 ---
-title: "First Post"
+title: "Our Bike Friday Touring Tandem"
+description: "The best touring tandem available."
+slug: "touring-tandem"
 date: 2019-01-06T14:16:46-05:00
 draft: false
 ---
-
-# Check out this first awesome post
 
 My first post probably sucks
 
