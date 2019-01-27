@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Adventure In Tandem</title>
+    <link>https://adventureintandem.com/posts/</link>
+    <description>Recent content in Posts on Adventure In Tandem</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Jan 2019 09:42:56 -0500</lastBuildDate>
+    
+	<atom:link href="https://adventureintandem.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Third Post</title>
+      <link>https://adventureintandem.com/third-post/</link>
+      <pubDate>Sun, 13 Jan 2019 09:42:56 -0500</pubDate>
+      
+      <guid>https://adventureintandem.com/third-post/</guid>
+      <description>Writing some more awesome content. Let&amp;rsquo;s see how this stacks up to the rest of my shitty content.</description>
+    </item>
+    
+    <item>
+      <title>Fourth Post</title>
+      <link>https://adventureintandem.com/fourth-post/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://adventureintandem.com/fourth-post/</guid>
+      <description>Who knows what is going to show up here.
+Let&amp;rsquo;s see how this all works out.
+Here is a large header And a smaller header.  one two three  It all seems to work alright.</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>https://adventureintandem.com/second-post/</link>
+      <pubDate>Sun, 06 Jan 2019 14:27:44 -0500</pubDate>
+      
+      <guid>https://adventureintandem.com/second-post/</guid>
+      <description>I have been sick for the past 5 days with the flu and it has really kicked my ass. But it finally feels like I am on the mend and am on my way to being better again. All said and done it was not the worst thing I have ever been through.</description>
+    </item>
+    
+    <item>
+      <title>Our Bike Friday Touring Tandem</title>
+      <link>https://adventureintandem.com/touring-tandem/</link>
+      <pubDate>Sun, 06 Jan 2019 19:16:46 +0000</pubDate>
+      
+      <guid>https://adventureintandem.com/touring-tandem/</guid>
+      <description>Here is our first bike.
+but it at least
+I made it 3 paragraphs long.
+Or did I?
+Is this the 5th?
+Good bye.</description>
+    </item>
+    
+  </channel>
+</rss>
