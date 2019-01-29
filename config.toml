@@ -17,7 +17,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "black-tandem.ico"
   description = "Tandem adventures around the world."
   facebook = "https://facebook.com/adventureintandem"
   twitter = ""
