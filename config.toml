@@ -30,6 +30,7 @@ enableRobotsTXT = true
   background_color_class = "bg-dark-green"
   featured_image = "/images/tandem.jpg"
   recent_posts_number = 8
+  cover_dimming_class = ""
 
 [permalinks]
   posts = "/:slug/"
