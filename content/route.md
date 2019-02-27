@@ -48,3 +48,21 @@ Not yet, but the ideas will come along the journey.
 Below is an interactive map of our route made with [Ride With GPS](https://ridewithgps.com)
 
 <iframe src="https://ridewithgps.com/embeds?type=route&id=29113451&title=Thailand%20to%20Portugal%202019%20Tour%20Route&metricUnits=true" style="width: 1px; min-width: 100%; height: 550px; border: none;" scrolling="no"></iframe>
+
+<!-- 
+Working example of the route map embedded on page.
+
+<link href=/css/app.9dbf4da5.css rel=preload as=style>
+<link href=/css/chunk-vendors.9ea72b65.css rel=preload as=style>
+<link href=/js/app.4eacf17e.js rel=preload as=script>
+<link href=/js/chunk-vendors.efc913f9.js rel=preload as=script>
+<link href=/css/chunk-vendors.9ea72b65.css rel=stylesheet>
+<link href=/css/app.9dbf4da5.css rel=stylesheet>
+
+<noscript><strong>We're sorry but test doesn't work properly without JavaScript enabled. Please enable it to
+            continue.</strong></noscript>
+
+<div id=app></div>
+<script src=/js/chunk-vendors.efc913f9.js> </script> 
+<script src=/js/app.4eacf17e.js> </script> 
+-->
