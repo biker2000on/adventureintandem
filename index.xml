@@ -6,10 +6,21 @@
     <description>Recent content on Adventure In Tandem</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jan 2019 10:18:02 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2019 15:16:46 -0400</lastBuildDate>
     
 	<atom:link href="https://adventureintandem.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Our Bike Friday Touring Tandem</title>
+      <link>https://adventureintandem.com/touring-tandem/</link>
+      <pubDate>Mon, 11 Mar 2019 15:16:46 -0400</pubDate>
+      
+      <guid>https://adventureintandem.com/touring-tandem/</guid>
+      <description>The choice of touring bicycle can really make or break your bike tour. If you have one that is a pain to work on and move around, or have one that just doesn&amp;rsquo;t work very well the tour becomes a trial of your mechanic skills.
+On the other hand, if you have a bike that works great and is reliable you are setup for success on your tour.
+For that reason and many more we will detail below we bought a Bike Friday Tandem Twosday to tour on.</description>
+    </item>
     
     <item>
       <title>Contact Us</title>
@@ -32,17 +43,6 @@ Your Name Email Address An email address is required.  Message   </description>
       <guid>https://adventureintandem.com/route/</guid>
       <description>2019 is the year of the bike tour for us. Justin has semi-retired from work to allow us to travel the world for a year or 2, or really however long we want to tour the world.
 The plan for this first year is to follow in the footsteps of many of the wonderful Warmshowers guests that we have had stay with us in Zhuhai, China over the past 4 years.</description>
-    </item>
-    
-    <item>
-      <title>Our Bike Friday Touring Tandem</title>
-      <link>https://adventureintandem.com/touring-tandem/</link>
-      <pubDate>Sun, 06 Jan 2019 19:16:46 +0000</pubDate>
-      
-      <guid>https://adventureintandem.com/touring-tandem/</guid>
-      <description>The choice of touring bicycle can really make or break your bike tour. If you have one that is a pain to work on and move around, or have one that just doesn&amp;rsquo;t work very well the tour becomes a trial of your mechanic skills.
-On the other hand, if you have a bike that works great and is reliable you are setup for success on your tour.
-For that reason and many more we will detail below we bought a Bike Friday Tandem Twosday to tour on.</description>
     </item>
     
   </channel>
