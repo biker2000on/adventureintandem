@@ -64,5 +64,4 @@ Working example of the route map embedded on page.
 
 <div id=app></div>
 <script src=/js/chunk-vendors.efc913f9.js> </script> 
-<script src=/js/app.4eacf17e.js> </script> 
--->
+<script src=/js/app.4eacf17e.js> </script>  -->
