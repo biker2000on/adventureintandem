@@ -4,7 +4,9 @@ date: 2019-01-12T17:24:30-05:00
 draft: false
 featured_image: "/images/tandem.jpg"
 menu: 
-    main: {}
+    main: {
+        weight: 2
+    }
 ---
 
 2019 is the year of the bike tour for us. Justin has semi-retired from work to allow us to travel the world for a year or 2, or really however long we want to tour the world. 

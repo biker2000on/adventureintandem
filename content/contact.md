@@ -4,7 +4,10 @@ date: 2019-01-13T10:18:02-05:00
 description: We'd love to hear from you!
 type: page
 draft: false
-menu: "main"
+menu: 
+    main: {
+      weight: 3
+    }
 ---
 
 Have any questions about how to bike tour? 
