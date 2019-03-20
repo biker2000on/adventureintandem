@@ -17,6 +17,13 @@
   </url>
   
   <url>
+    <loc>https://adventureintandem.com/blog/</loc>
+    <lastmod>2019-03-01T12:39:57+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://adventureintandem.com/contact/</loc>
     <lastmod>2019-01-13T10:18:02-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -39,13 +46,6 @@
   
   <url>
     <loc>https://adventureintandem.com/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://adventureintandem.com/posts/</loc>
-    <lastmod>2019-03-11T15:16:46-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
