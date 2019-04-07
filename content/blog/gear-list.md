@@ -444,4 +444,7 @@ th {
     background: #137752;
     color: white;
 }
+table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after { 
+    content: " \25B4\25BE" 
+}
 </style>
