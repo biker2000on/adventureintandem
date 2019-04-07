@@ -45,24 +45,24 @@ Without further ado, below you will find our categorized gear list and a summary
 
 | Gear            | Details                             | Weight    |
 |-----------------|-------------------------------------|-----------|
-| bike            | Bike Friday Tandem Twosday          | 23,030.00 |
-| bike computer   | Garmin Edge 1000                    | 116.3     |
-| bike computer   | Garmin Edge 800                     | 98        |
+| bike            | [Bike Friday Tandem Twosday](https://www.bikefriday.com/folding-bikes/product/bike-friday-tandem-twosday-folding-travel-bike)          | 23,030.00 |
+| bike computer   | [Garmin Edge 1000](https://amzn.to/2I22AE9)                    | 116.3     |
+| bike computer   | [Garmin Edge 800](https://amzn.to/2I22AE9)                     | 98        |
 | bungee cords    | 2x bungee cords                     | 117.5     |
-| Dynamo hub      | Shutter Precision PX-8 dynamo hub   | 0         |
-| headlight       | B&M IQ Cyo headlight                | 0         |
+| Dynamo hub      | [Shutter Precision PX-8 dynamo hub](https://www.sinewavecycles.com/products/sp-pd-8-dynamo-hub)   | 0         |
+| headlight       | [B&M IQ Cyo headlight](https://amzn.to/2VvVhaU)                | 0         |
 | kickstand       | single kickstand                    | 0         |
 | rack trunk      | Performance Transit Epic rack trunk | 658       |
-| rear panniers   | Vaude Aqua 50L                      | 2,436.00  |
+| rear panniers   | [Vaude Aqua 50L](https://amzn.to/2I9VopN)                      | 2,436.00  |
 | rear rack       | Bike Friday folding Rear Rack       | 0         |
-| saddle captain  | Brooks B17 captains saddle          | 0         |
-| saddle stoker   | Brooks B17S Stokers saddle          | 0         |
-| seatpost stoker | Kinekt BodyFloat seatpost           | 0         |
+| saddle captain  | [Brooks B17 captains saddle](https://amzn.to/2UAc0ga)          | 0         |
+| saddle stoker   | [Brooks B17S Stokers saddle](https://amzn.to/2VuoxyD)          | 0         |
+| seatpost stoker | [Kinekt BodyFloat seatpost](https://amzn.to/2WQpJwA)           | 0         |
 | Storage         | Underbag goes under rear rack       | 76.5      |
 | taillight       | Spanninga taillight                 | 0         |
-| tires           | Schwalbe Marathon 20x2.25"          | 0         |
-| Trailer         | Samsonite Flight suitcase / trailer | 9,088.00  |
-| Trailer         | Trailer kit for suitcase            | 0         |
+| tires           | [Schwalbe Marathon 20x2.25"](https://amzn.to/2I4bRM8)          | 0         |
+| Trailer         | [Samsonite Flight suitcase / trailer](https://store.bikefriday.com/index.php?cPath=51) | 9,088.00  |
+| Trailer         | [Trailer kit for suitcase](https://store.bikefriday.com/index.php?cPath=51)            | 0         |
 | water storage   | 4x 1L Nashbar water bottles         |
 
 We chose the Bike Friday Tandem Twosday for our ride around the world due to its packability. We wanted a bike that could fold after we saw a couple in Cambodia roll up to the hostel, quickly fold their bikes and walk right in. Our Tandem Twosday does not fold nearly as quickly or cleanly as a Brompton, but it folds quickly enough to get it stuffed under a bus or in the back of an SUV when needed.
